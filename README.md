@@ -16,6 +16,8 @@ pip install -r requirements.txt
 
 ## Usage
 Run notebooks in order:
+(Create .env with OpenAI key)
+(Uncomment cells that create and save files not in repo)
 1. data_importing.ipynb
 2. text_classification.ipynb
 3. semantic_analysis.ipynb
